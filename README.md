@@ -40,5 +40,5 @@ I build secure, scalable mobile applications with real-world impact.
 
 ## 📫 Contact Me
 
-📧 abbasiabdulsamad2@gmail.com
-📱 +92 3163619917
+Email: abbasiabdulsamad2@gmail.com
+LinkedIn: https://linkedin.com/in/asamada
